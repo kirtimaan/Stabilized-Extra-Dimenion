@@ -5,3 +5,4 @@ Please cite:
 1. arXiv:2206.XXXXX 
 2. arXiv:2104.08169
 
+To load expressions, start with main.wl
